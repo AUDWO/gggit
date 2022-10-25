@@ -6,7 +6,4 @@ def subtract(a, b):
     return a-b
 
 def say_hello():
-    print("hello")    
-
-def cross(a, b):
-    return a*b    
+    print("hㅑ")      
